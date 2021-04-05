@@ -12,6 +12,7 @@ All stocks except one had a positive return in 2017.
 
 ![2017 Stock Performance](/Resources/Stock_Performance_2017.png)
 
+
 2018 was the opposite, with only two stocks having positive returns.  ENPH and RUN had returns of over 80% with high volume, so they look like the best stocks to purchase right now.
 
 ![2018 Stock Performance](/Resources/Stock_Performance_2018.png)
@@ -21,6 +22,7 @@ The original VBA script took 1.25 seconds to run for 2017, and 1.15 seconds to r
 
 ![Original Script Performance for 2017](/Resources/VBA_Challenge_2017_Original_Code.png)
 ![Original Script Performance for 2018](/Resources/VBA_Challenge_2018_Original_Code.png)
+
 
 The refactored script was much faster, running in 0.11 seconds for 2017, and 0.09 seconds for 2018.
 
